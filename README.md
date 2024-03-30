@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi there! 👋 I'm Mohsin Aslam
 
-<!--
-**mohsinaslamkh/mohsinaslamkh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate lead generation and email marketing specialist based in Pakistan. With over three years of experience, I have successfully completed numerous projects with a 100% accuracy rate.
 
-Here are some ideas to get you started:
+## About Me
+- 💼 Lead Generation & Email Marketing Specialist
+- 🌐 Based in Pakistan
+- 📅 Over 3 years of experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Lead Generation
+- Email Marketing
+- Data Entry
+- Data Analysis
